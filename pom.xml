@@ -8,6 +8,10 @@
     <artifactId>spring_micro_services</artifactId>
     <packaging>pom</packaging>
     <version>0.0.1</version>
+
+    <name>spring_micro_service</name>
+    <description>Spring microservice demo project with api gateway, Eureka and Spring Security</description>
+
     <modules>
         <module>discovery_service</module>
         <module>gateway_service</module>
