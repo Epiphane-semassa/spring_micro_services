@@ -6,10 +6,6 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="user_service" />
-        <module name="auth_service" />
-        <module name="discovery_service" />
-        <module name="gateway_service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
